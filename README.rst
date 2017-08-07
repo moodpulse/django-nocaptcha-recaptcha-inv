@@ -13,4 +13,4 @@ I am creating this copy to be able to publish and use invisible captcha in other
 
 When `this request <https://github.com/ImaginaryLandscape/django-nocaptcha-recaptcha/pull/6>`_ is accepted I will start using the original project.
 
-This repository will be removed in the future.
+This repository will be deprecated in the future.
