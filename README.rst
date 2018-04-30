@@ -1,4 +1,5 @@
-
+.. image:: https://badge.fury.io/py/django-nocaptcha-recaptcha-inv.svg
+    :target: https://badge.fury.io/py/django-nocaptcha-recaptcha-inv
 ###############################
 Original Project
 ###############################
