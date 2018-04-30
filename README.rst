@@ -1,3 +1,6 @@
+
+[![PyPI version](https://badge.fury.io/py/django-nocaptcha-recaptcha-inv.svg)](https://badge.fury.io/py/django-nocaptcha-recaptcha-inv)
+
 ###############################
 Original Project
 ###############################
