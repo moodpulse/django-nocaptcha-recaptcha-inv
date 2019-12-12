@@ -11,7 +11,7 @@ EXCLUDE_FROM_PACKAGES = ['.vscode']
 
 setup(
     name='django_nocaptcha_recaptcha_inv',
-    version='1.0.2',
+    version='1.0.3',
     url='https://github.com/ricardochaves/django-nocaptcha-recaptcha-inv',
     author='Ricardo Baltazar Chaves',
     author_email='ricardobchaves6@gmail.com',
@@ -41,5 +41,6 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Natural Language :: Portuguese (Brazilian)',
     ],
+    install_requires=['simplejson'],
     zip_safe=False
 )
