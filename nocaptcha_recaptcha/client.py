@@ -3,7 +3,7 @@ import logging
 import django
 
 try:
-    from django.utils import simplejson as json
+    import simplejson as json
 except ImportError:
     import json
 
